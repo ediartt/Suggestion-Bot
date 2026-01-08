@@ -1,0 +1,13 @@
+{
+"name": "suggestion-bot",
+"version": "1.0.0",
+"description": "Simple Discord suggestion bot with approve/deny system",
+"main": "index.js",
+"type": "commonjs",
+"scripts": {
+"start": "node index.js"
+},
+"dependencies": {
+"discord.js": "^14.14.1"
+}
+}
